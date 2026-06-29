@@ -1,0 +1,8 @@
+{
+  "name": "CineFocus",
+  "description": "Premium minimalist cinematic streaming platform with dark mode, sub-second search, and video detail reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
